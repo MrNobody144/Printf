@@ -15,3 +15,5 @@
   - **%c**: Displays a character
  
 - It doesn't support **width** and **length** either
+
+- The main function lies in *printf.c*
