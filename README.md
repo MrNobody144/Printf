@@ -16,4 +16,4 @@
  
 - It doesn't support **width** and **length** either
 
-- The main function lies in *printf.c*
+- The main function lies in *ft_printf.c*
